@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Developing AI models in computer vision, machine learning, and natural language processing, as well as implementing IoT systems.<br><br>👯 I’m looking to collaborate on<br>AI solutions, interactive dashboards, and IoT projects with real-world impact.<br><br>🤝 I’m looking for help with<br>Exploring cutting-edge AI techniques and optimizing machine learning workflows.<br><br>🌱 I’m currently learning<br>Deep learning, AI model deployment on edge devices, and creating dashboards with Power BI.<br><br>💬 Ask me about<br>AI development, IoT systems, data analysis, and leadership in research projects.<br><br>⚡ Fun fact<br>I believe every challenge is a hidden opportunity for innovation!
+Hi there! 👋<br>I'm a Computer Science and Systems Engineering student passionate about technology and innovation. My journey revolves around pushing the boundaries of artificial intelligence, including computer vision, machine learning, and natural language processing, as well as building impactful IoT systems. 🚀<br><br>What I Bring to the Table<br>💻 Tech Skills: Proficient in C++ and Python, crafting efficient solutions and building robust systems.<br>📊 Data Visualization: Skilled in Power BI for creating interactive dashboards that tell compelling data stories.<br>🎯 Problem Solver: Analytical thinker with a knack for breaking down complex challenges into elegant solutions.<br>🌟 Leadership & Teamwork: As a coordinator of a research group, I've led talented teams toward successful outcomes in innovative projects.<br>My Philosophy<br>I believe in the power of technology to shape a better world. My work focuses on innovation, excellence, and driving efficiency in high-impact projects. I'm always looking for new challenges and opportunities to collaborate, learn, and create. 🌍✨<br><br>Let’s build the future together! 🚀<br>Feel free to connect, collaborate, or just say hi! 😊
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=malulo1000&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
