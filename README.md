@@ -15,7 +15,7 @@ Hi there! 👋<br>I'm a Computer Science and Systems Engineering student passion
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=malulo1000&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
